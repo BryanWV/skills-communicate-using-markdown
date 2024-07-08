@@ -10,3 +10,7 @@ $ git statud
 $ git add -a -m"Adding commit message"
 Basic git commands for git
 ```
+## Adding a task list
+- [x] Create a pull request
+- [x] Add code and image with Markdown
+- [ ] Finish your work 
